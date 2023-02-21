@@ -3,5 +3,5 @@
 ### Лабораторных - Папка Lab's
 ### Практика - Папка Practice's
 ### Курсовая работа - Course Works
-### Летняя практиа - Summer Practice
+### Летняя практика - Summer Practice
 ### Иное - Another
